@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="darktower" name="tekdays.TekEventTests" tests="1" time="0.719" timestamp="2011-05-12T21:52:27">
+  <properties />
+  <testcase classname="tekdays.TekEventTests" name="testToString" time="0.649" />
+  <system-out><![CDATA[--Output from testToString--
+]]></system-out>
+  <system-err><![CDATA[--Output from testToString--
+]]></system-err>
+</testsuite>
