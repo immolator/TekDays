@@ -1,14 +1,50 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <testsuites>
-  <testsuite errors="0" failures="0" hostname="darktower" id="0" name="TekEventTests" package="tekdays" tests="1" time="0.719" timestamp="2011-05-12T21:52:27">
+  <testsuite errors="0" failures="0" hostname="marcintrzaska" id="0" name="TekEventControllerTests" package="tekdays" tests="1" time="0.016" timestamp="2011-05-13T13:09:42">
       <properties />
 
-      <testcase classname="tekdays.TekEventTests" name="testToString" time="0.649" />
+      <testcase classname="tekdays.TekEventControllerTests" name="testSomething" time="0.014" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="marcintrzaska" id="1" name="TekEventTests" package="tekdays" tests="1" time="0.262" timestamp="2011-05-13T13:09:42">
+      <properties />
+
+      <testcase classname="tekdays.TekEventTests" name="testToString" time="0.245" />
 
       <system-out><![CDATA[--Output from testToString--
 ]]></system-out>
 
       <system-err><![CDATA[--Output from testToString--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="marcintrzaska" id="2" name="TekUserControllerTests" package="tekdays" tests="1" time="0.34" timestamp="2011-05-13T13:09:42">
+      <properties />
+
+      <testcase classname="tekdays.TekUserControllerTests" name="testSomething" time="0.339" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="marcintrzaska" id="3" name="TekUserTests" package="tekdays" tests="1" time="0.0050" timestamp="2011-05-13T13:09:42">
+      <properties />
+
+      <testcase classname="tekdays.TekUserTests" name="testSomething" time="0.0040" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
 ]]></system-err>
 
   </testsuite>

@@ -14,7 +14,7 @@ class TekEventTests extends GrailsUnitTestCase {
     void testToString() {
 		def tekEvent = new TekEvent(name: 'Groovy One',
 							city: 'Krakow',
-							organizer: 'Jan Kowalski',
+							organizer: [fullName: 'Jan Kowalski'] as TekUser,
 							venue: 'Solvay',
 							startDate: new Date('5/20/2011'),
 							endDate: new Date('5/22/2011'),
