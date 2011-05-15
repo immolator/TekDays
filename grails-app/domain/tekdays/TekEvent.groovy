@@ -12,11 +12,13 @@ class TekEvent {
 	
     static hasMany = [volunteers : TekUser,
         respondents : String,
-        sponsorships : Sponsorship]
+        sponsorships : Sponsorship,
+		tasks : Task,
+		messages: Message]
     
     static constraints = {
-        name()
-        city()
+        name(blank:false)
+        city(blank:false)
         description(maxSize:5000)
         organizer()
         venue()
@@ -25,6 +27,8 @@ class TekEvent {
         volunteers(nullable:true)
         respondents(nullable:true)
         sponsorships(nullable:true)
+		tasks(nullable:true)
+		messages(nullable:true)
     }
 
 
