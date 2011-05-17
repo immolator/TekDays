@@ -1,9 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <testsuites>
-  <testsuite errors="0" failures="0" hostname="marcintrzaska" id="0" name="TekEventControllerTests" package="tekdays" tests="1" time="0.016" timestamp="2011-05-13T13:09:42">
+  <testsuite errors="0" failures="0" hostname="darktower" id="0" name="TaskServiceTests" package="" tests="1" time="1.726" timestamp="2011-05-16T09:24:04">
       <properties />
 
-      <testcase classname="tekdays.TekEventControllerTests" name="testSomething" time="0.014" />
+      <testcase classname="TaskServiceTests" name="testAddDefaultTasks" time="1.724" />
+
+      <system-out><![CDATA[--Output from testAddDefaultTasks--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testAddDefaultTasks--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="darktower" id="1" name="MessageControllerTests" package="tekdays" tests="1" time="0.342" timestamp="2011-05-16T09:23:39">
+      <properties />
+
+      <testcase classname="tekdays.MessageControllerTests" name="testSomething" time="0.318" />
 
       <system-out><![CDATA[--Output from testSomething--
 ]]></system-out>
@@ -12,10 +24,118 @@
 ]]></system-err>
 
   </testsuite>
-  <testsuite errors="0" failures="0" hostname="marcintrzaska" id="1" name="TekEventTests" package="tekdays" tests="1" time="0.262" timestamp="2011-05-13T13:09:42">
+  <testsuite errors="0" failures="0" hostname="darktower" id="2" name="MessageTests" package="tekdays" tests="1" time="0.033" timestamp="2011-05-16T09:23:39">
       <properties />
 
-      <testcase classname="tekdays.TekEventTests" name="testToString" time="0.245" />
+      <testcase classname="tekdays.MessageTests" name="testSomething" time="0.015" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="darktower" id="3" name="SponsorControllerTests" package="tekdays" tests="1" time="0.308" timestamp="2011-05-16T09:23:39">
+      <properties />
+
+      <testcase classname="tekdays.SponsorControllerTests" name="testSomething" time="0.296" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="darktower" id="4" name="SponsorTests" package="tekdays" tests="1" time="0.028" timestamp="2011-05-16T09:23:39">
+      <properties />
+
+      <testcase classname="tekdays.SponsorTests" name="testSomething" time="0.024" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="darktower" id="5" name="SponsorshipControllerTests" package="tekdays" tests="1" time="0.301" timestamp="2011-05-16T09:23:39">
+      <properties />
+
+      <testcase classname="tekdays.SponsorshipControllerTests" name="testSomething" time="0.298" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="darktower" id="6" name="SponsorshipTests" package="tekdays" tests="1" time="0.015" timestamp="2011-05-16T09:23:40">
+      <properties />
+
+      <testcase classname="tekdays.SponsorshipTests" name="testSomething" time="0.0040" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="darktower" id="7" name="TaskControllerTests" package="tekdays" tests="1" time="0.104" timestamp="2011-05-16T09:23:40">
+      <properties />
+
+      <testcase classname="tekdays.TaskControllerTests" name="testSomething" time="0.1" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="darktower" id="8" name="TaskServiceTests" package="tekdays" tests="1" time="0.06" timestamp="2011-05-16T09:23:40">
+      <properties />
+
+      <testcase classname="tekdays.TaskServiceTests" name="testSomething" time="0.013" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="darktower" id="9" name="TaskTests" package="tekdays" tests="1" time="0.041" timestamp="2011-05-16T09:23:39">
+      <properties />
+
+      <testcase classname="tekdays.TaskTests" name="testSomething" time="0.027" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="darktower" id="10" name="TekEventControllerTests" package="tekdays" tests="1" time="2.145" timestamp="2011-05-16T09:23:36">
+      <properties />
+
+      <testcase classname="tekdays.TekEventControllerTests" name="testSomething" time="2.132" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="darktower" id="11" name="TekEventTests" package="tekdays" tests="1" time="0.096" timestamp="2011-05-16T09:23:40">
+      <properties />
+
+      <testcase classname="tekdays.TekEventTests" name="testToString" time="0.09" />
 
       <system-out><![CDATA[--Output from testToString--
 ]]></system-out>
@@ -24,10 +144,10 @@
 ]]></system-err>
 
   </testsuite>
-  <testsuite errors="0" failures="0" hostname="marcintrzaska" id="2" name="TekUserControllerTests" package="tekdays" tests="1" time="0.34" timestamp="2011-05-13T13:09:42">
+  <testsuite errors="0" failures="0" hostname="darktower" id="12" name="TekUserControllerTests" package="tekdays" tests="1" time="0.098" timestamp="2011-05-16T09:23:40">
       <properties />
 
-      <testcase classname="tekdays.TekUserControllerTests" name="testSomething" time="0.339" />
+      <testcase classname="tekdays.TekUserControllerTests" name="testSomething" time="0.095" />
 
       <system-out><![CDATA[--Output from testSomething--
 ]]></system-out>
@@ -36,10 +156,10 @@
 ]]></system-err>
 
   </testsuite>
-  <testsuite errors="0" failures="0" hostname="marcintrzaska" id="3" name="TekUserTests" package="tekdays" tests="1" time="0.0050" timestamp="2011-05-13T13:09:42">
+  <testsuite errors="0" failures="0" hostname="darktower" id="13" name="TekUserTests" package="tekdays" tests="1" time="0.546" timestamp="2011-05-16T09:23:36">
       <properties />
 
-      <testcase classname="tekdays.TekUserTests" name="testSomething" time="0.0040" />
+      <testcase classname="tekdays.TekUserTests" name="testSomething" time="0.495" />
 
       <system-out><![CDATA[--Output from testSomething--
 ]]></system-out>

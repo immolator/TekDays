@@ -34,7 +34,7 @@ class TekEvent {
 
     
 	String toString() {
-		"$name, $city"
+		"$name, $city, $venue"
 	}
 
 }
