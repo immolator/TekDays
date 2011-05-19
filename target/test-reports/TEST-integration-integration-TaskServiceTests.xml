@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="darktower" name="TaskServiceTests" tests="1" time="1.726" timestamp="2011-05-16T09:24:04">
+  <properties />
+  <testcase classname="TaskServiceTests" name="testAddDefaultTasks" time="1.724" />
+  <system-out><![CDATA[--Output from testAddDefaultTasks--
+]]></system-out>
+  <system-err><![CDATA[--Output from testAddDefaultTasks--
+]]></system-err>
+</testsuite>

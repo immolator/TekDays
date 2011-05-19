@@ -1,0 +1,10 @@
+Testsuite: TaskServiceTests
+Tests run: 1, Failures: 0, Errors: 0, Time elapsed: 1.726 sec
+------------- Standard Output ---------------
+--Output from testAddDefaultTasks--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from testAddDefaultTasks--
+------------- ---------------- ---------------
+
+Testcase: testAddDefaultTasks took 1.724 sec

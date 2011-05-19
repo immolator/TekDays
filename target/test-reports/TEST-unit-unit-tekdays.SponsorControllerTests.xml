@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="darktower" name="tekdays.SponsorControllerTests" tests="1" time="0.308" timestamp="2011-05-16T09:23:39">
+  <properties />
+  <testcase classname="tekdays.SponsorControllerTests" name="testSomething" time="0.296" />
+  <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+  <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+</testsuite>
